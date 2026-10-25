@@ -1,88 +1,143 @@
 ☁️ Kumo Animes
 
-Kumo Animes es una aplicación enfocada en ofrecer una experiencia cómoda para disfrutar de anime, con soporte para múltiples idiomas, subtítulos y una comunidad integrada.
+<p align="center">La aplicación para disfrutar de tu anime favorito.
 
-«🎬 Anime · 🌎 Multiidioma · 💬 Comunidad · 🚫 Sin anuncios»
+🎬 Anime • 🚫 Sin anuncios • 💬 Comunidad • 🌎 Multiidioma
 
-✨ Características
+</p>---
 
-- 🎬 Visualización de anime sin anuncios.
-- 🌎 Soporte para múltiples idiomas.
-- 🇯🇵 Audio japonés.
-- 🇲🇽 Español latino.
-- 🇪🇸 Español de España.
-- 💬 Chat comunitario para interactuar con otros usuarios.
-- 🔎 Búsqueda y descubrimiento de anime.
-- 📱 Interfaz adaptada para dispositivos Android.
-- ⚡ Experiencia sencilla y rápida.
-- 📚 Catálogo de series y películas de anime.
+📖 ¿Qué es Kumo Animes?
 
-🌐 Idiomas
+Kumo Animes es una aplicación para Android creada para los amantes del anime.
 
-Dependiendo del anime y de las fuentes disponibles, Kumo Animes puede ofrecer diferentes combinaciones de audio y subtítulos:
-
-Audio| Subtítulos
-🇯🇵 Japonés| 🇪🇸 Español
-🇲🇽 Español Latino| —
-🇪🇸 Español de España| —
-🌎 Otros| Según disponibilidad
-
-💬 Comunidad
-
-Kumo Animes incluye un espacio comunitario donde los usuarios pueden:
-
-- Comentar sobre los episodios.
-- Compartir opiniones.
-- Hablar sobre sus series favoritas.
-- Interactuar con otros fans del anime.
-
-📱 Instalación
-
-1. Descarga la versión más reciente desde la sección Releases de este repositorio.
-2. Instala el archivo APK en tu dispositivo Android.
-3. Abre Kumo Animes.
-4. Busca tu anime favorito y comienza a verlo.
-
-«⚠️ Android puede solicitar permiso para instalar aplicaciones provenientes de fuentes externas.»
-
-📥 Descargar
-
-Las versiones disponibles de Kumo Animes se publican en:
-
-"Releases" (../../releases)
-
-Se recomienda utilizar siempre la versión más reciente disponible.
-
-🛠️ Estado del proyecto
-
-Kumo Animes se encuentra en desarrollo. Algunas funciones pueden cambiar, mejorar o incorporarse en futuras versiones.
-
-🔐 Privacidad
-
-Kumo Animes busca ofrecer una experiencia sencilla y respetuosa con los usuarios.
-
-Consulta la documentación del proyecto para conocer qué información utiliza la aplicación y cómo se gestiona.
-
-🤝 Contribuciones
-
-¿Encontraste un error o tienes una idea para mejorar Kumo Animes?
-
-Puedes:
-
-- Abrir un Issue.
-- Proponer mejoras.
-- Reportar errores.
-- Enviar un Pull Request.
-
-Toda contribución que ayude a mejorar el proyecto es bienvenida.
-
-📄 Licencia
-
-Consulta el archivo "LICENSE" de este repositorio para conocer los términos de uso y distribución del proyecto.
+Con Kumo Animes puedes disfrutar de una gran variedad de series y películas de anime desde una aplicación sencilla, además de contar con diferentes opciones de idioma, subtítulos y un espacio de comunidad para interactuar con otros usuarios.
 
 ---
 
-<p align="center">
-  ☁️ <b>Kumo Animes</b><br>
-  <i>Tu anime, a tu manera.</i>
+✨ Características
+
+🎬 Anime sin anuncios
+
+Disfruta de tus episodios sin los molestos anuncios que interrumpen tu experiencia de visualización.
+
+🌎 Múltiples idiomas
+
+Kumo Animes ofrece diferentes opciones de audio y subtítulos dependiendo del contenido disponible.
+
+Entre las opciones disponibles se encuentran:
+
+- 🇯🇵 Japonés
+- 🇲🇽 Español Latino
+- 🇪🇸 Español de España
+- 💬 Subtítulos en español
+- 🌐 Otros idiomas según disponibilidad
+
+«La disponibilidad de idiomas y subtítulos puede variar dependiendo del anime.»
+
+💬 Chat comunitario
+
+Kumo Animes incluye un chat comunitario donde puedes interactuar con otros usuarios.
+
+Puedes:
+
+- 💭 Comentar sobre tus animes favoritos.
+- 🗣️ Compartir opiniones.
+- 👥 Conocer a otros fans.
+- 🔥 Hablar sobre los episodios recientes.
+- ⭐ Recomendar series a otros usuarios.
+
+---
+
+📱 Android
+
+Kumo Animes está diseñado para utilizarse en dispositivos Android.
+
+El APK se encuentra directamente dentro de este repositorio.
+
+---
+
+📥 Descargar e instalar
+
+El archivo APK de Kumo Animes está disponible dentro del proyecto.
+
+1. Descargar
+
+Busca el archivo ".apk" dentro del repositorio y descárgalo en tu dispositivo Android.
+
+2. Instalar
+
+Abre el archivo APK desde tu dispositivo.
+
+Si Android muestra una advertencia sobre aplicaciones procedentes de fuentes externas, permite la instalación para poder continuar.
+
+3. Abrir Kumo Animes
+
+Una vez instalada, abre la aplicación y comienza a disfrutar de tu anime.
+
+---
+
+🎧 Idiomas y subtítulos
+
+Dependiendo del anime, pueden existir diferentes versiones:
+
+Opción| Disponibilidad
+🇯🇵 Japonés| ✅
+🇲🇽 Español Latino| ✅
+🇪🇸 Español España| ✅
+🇪🇸 Sub Español| ✅
+🌐 Otros idiomas| Según disponibilidad
+
+---
+
+💬 Comunidad
+
+La comunidad es una de las características principales de Kumo Animes.
+
+Puedes utilizar el chat para hablar con otros usuarios mientras descubres y disfrutas de diferentes series.
+
+Comparte. Comenta. Descubre. Disfruta.
+
+---
+
+🚫 Sin anuncios
+
+Kumo Animes busca ofrecer una experiencia de visualización sin anuncios, permitiendo que puedas concentrarte en el contenido sin interrupciones publicitarias.
+
+---
+
+🔄 Actualizaciones
+
+Las nuevas versiones del APK se irán agregando al proyecto cuando estén disponibles.
+
+Se recomienda utilizar siempre la versión más reciente publicada.
+
+---
+
+⚠️ Aviso
+
+Kumo Animes es una aplicación independiente y no está afiliada oficialmente con los estudios, productoras o propietarios de las franquicias de anime mostradas en la aplicación.
+
+Los nombres, personajes, marcas y contenidos pertenecen a sus respectivos propietarios.
+
+---
+
+⭐ Apoya el proyecto
+
+Si te gusta Kumo Animes, puedes apoyar el proyecto dejando una ⭐ en este repositorio.
+
+También puedes:
+
+- 🐛 Reportar errores.
+- 💡 Proponer nuevas funciones.
+- 💬 Compartir tus sugerencias.
+- 📢 Compartir el proyecto con otros usuarios.
+
+---
+
+☁️ Kumo Animes
+
+«Tu anime, a tu manera.»
+
+<p align="center">🎬 Anime • 💬 Comunidad • 🌎 Multiidioma • 📱 Android
+
 </p>
